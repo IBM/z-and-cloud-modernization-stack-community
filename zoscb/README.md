@@ -21,7 +21,7 @@ To run the `must-gather.sh` shell script:
     ```
     oc project <your-zoscb-namespace>
     ```
-1. Download the [`must-gather.sh`](NEED_LINK) script
+1. Download the [`must-gather.sh`](https://raw.githubusercontent.com/IBM/z-and-cloud-modernization-stack-community/main/zoscb/must-gather.sh) script
 1. Run the `must-gather.sh` script, use `--help` to see available options
     ```
     cd <your-download-dir>
