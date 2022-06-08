@@ -9,6 +9,7 @@ Please reference the product-specific directories for content related to a given
 
 ## Available Product Versions
 
+__*Note - Each Operator version is compatible with all corresponding OCI artifacts unless stated otherwise.__
 ## z/OS Package Manager <a name="zpm"></a>
 |  Product Version | OCI artifact | Supported Operator version | Find out more | 
 |-|-|-|-| 
@@ -17,11 +18,16 @@ Please reference the product-specific directories for content related to a given
 
 
 ## C/C++ for Open Enterprise Languages on z/OS <a name="cpp"></a>
-|  Product Version | OCI artifact | Supported Operator version | Find out more | 
-|-|-|-|-| 
-| 1.1.0 | 1.0.0.0 | 1.0.1 | [Release notes](https://www.ibm.com/docs/en/SSV97FN_2022.1.1/cpp_compiler/release_notes.html) |
-| 1.1.0 | 1.0.0.0 | 1.0.0 | [Release notes](https://www.ibm.com/docs/en/SSV97FN_2022.1.1/cpp_compiler/release_notes.html) |
+|  Product Version | OCI artifact | Find out more | 
+|-|-|-| 
+| 1.1.0 | 1.0.0.0  | [Release notes](https://www.ibm.com/docs/en/SSV97FN_2022.1.1/cpp_compiler/release_notes.html) |
+| 1.1.0 | 1.0.0.0  | [Release notes](https://www.ibm.com/docs/en/SSV97FN_2022.1.1/cpp_compiler/release_notes.html) | 
 
+
+|  Supported Operator versions |
+|-| 
+| [1.0.1](https://github.com/IBM/zos_opencpp_operator/releases/tag/v1.0.1) | 
+| [1.0.0](https://github.com/IBM/zos_opencpp_operator/releases/tag/v1.0.0) |
 
 ## 64-bit SDK for z/OS, Java Technology Edition <a name="java"></a>
 |  Version | OCI artifact | Supported Operator version | Find out more | 
