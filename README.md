@@ -21,7 +21,6 @@ __*Note - Each Operator version is compatible with all corresponding OCI artifac
 |  Product Version | OCI artifact | Find out more | 
 |-|-|-| 
 | 1.1.0 | 1.0.0.0  | [Release notes](https://www.ibm.com/docs/en/SSV97FN_2022.1.1/cpp_compiler/release_notes.html) |
-| 1.1.0 | 1.0.0.0  | [Release notes](https://www.ibm.com/docs/en/SSV97FN_2022.1.1/cpp_compiler/release_notes.html) | 
 
 |  Supported Operator versions |
 |-| 
@@ -78,7 +77,6 @@ __*Note - Each Operator version is compatible with all corresponding OCI artifac
 ## Z Open Automation Utilities <a name="zoau"></a>
 |  Product Version | OCI artifact | Find out more | 
 |-|-|-|
-| 1.2.0 | 1.2.0.1 | [Release notes](https://www.ibm.com/docs/en/SSV97FN_2022.1.1/zoau/zstack_release_notes_zoau.html) |
 | 1.2.0 | 1.2.0.1 | [Release notes](https://www.ibm.com/docs/en/SSV97FN_2022.1.1/zoau/zstack_release_notes_zoau.html) |
 
 | Supported Operator versions | 
