@@ -13,7 +13,7 @@ __*Note - Each Operator version is compatible with all corresponding OCI artifac
 ## z/OS Package Manager <a name="zpm"></a>
 |  Product Version | OCI artifact | Supported Operator version | Find out more | 
 |-|-|-|-| 
-| 1.0.3 | 1.0.3 | [1.0.3](https://github.com/IBM/zos_package_manager_operator/releases/tag/v1.0.3) | [Release notes](https://www.ibm.com/docs/en/SSV97FN_2022.1.1/zpm/release-notes.html) |
+| 1.0.4 | 1.0.4 | [1.0.4](https://github.com/IBM/zos_package_manager_operator/releases/tag/v1.0.4) | [Release notes](https://www.ibm.com/docs/en/SSV97FN_2022.1.1/zpm/release-notes.html) |
 | 1.0.0 | 1.0.0 | [1.0.0](https://github.com/IBM/zos_package_manager_operator/releases/tag/v1.0.0) | [Release notes](https://www.ibm.com/docs/en/SSV97FN_2022.1.1/zpm/release-notes.html) |
 
 
