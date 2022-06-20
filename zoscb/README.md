@@ -5,10 +5,11 @@ The documentation, scripts, or content provided under this directory are intende
   - [Must Gather](#must-gather)
     - [Must Gather Help](#must-gather-help)
     - [Must Gather Output](#must-gather-output)
-
 ## Must Gather
 The `must-gather.sh` script provides a helpful utility function for generating an archive that can be supplied to the
 IBM z/OS Cloud Broker team to help identify and debug issues that may be experienced while using the product.
+
+A detailed changelog can be seen [here](CHANGELOG.md).
 
 To run the `must-gather.sh` shell script:
 

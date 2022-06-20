@@ -12,7 +12,9 @@ set -eo pipefail
 
 PROJECT=$(oc project -q)
 SCRIPT_NAME=$(basename "${0}")
+SCRIPT_VERSION="v1.1"
 TIMESTAMP=$(date +%Y-%m-%d_%H-%M-%S)
+ZOSCB_INST_NAME=$(oc get zoscloudbroker --output=jsonpath={.items..metadata.name})
 
 # General log diretory
 DIR_MUST_GATHER="${PWD}/zoscb-must-gather_${TIMESTAMP}"
@@ -58,6 +60,8 @@ function exitError() {
 
 # displayHelp: Displays script usage information.
 function displayHelp() {
+    logWarning "IBM z/OS Cloud Broker MustGather Script ${SCRIPT_VERSION}"
+
     logMessage "Collect all z/OS Cloud Broker MustGather data (includes all options except OCP audit logs)"
     echo "${SCRIPT_NAME}"
 
@@ -101,7 +105,7 @@ function gatherPodLogs {
   done
 }
 
-function gatherApiResources() {
+function gatherByResourceApiGroup() {
   logMessage "Gathering resource YAMLs for API Group: ${1}"
   local api_group=$1
 
@@ -114,6 +118,23 @@ function gatherApiResources() {
     printf "\t\tGathering YAMLs for resource: %s\n" "${resource}"
     oc get "${resource}" -o yaml > "${gather_dir}/${resource}.yaml"
   done
+}
+
+function gatherByResourceOrCategory() {
+  local api_category=$1
+  local filter=$2
+
+  logMessage "Gathering resource YAMLs for CRDs in category '${1}' with filter '${2}'"
+
+  local gather_dir="${DIR_MUST_GATHER}/yamls/${api_category}"
+  mkdir -pv "${gather_dir}"
+  logMessage "\tWriting YAMLs into dir: ${gather_dir}"
+
+  if [[ -n "${filter}" ]]; then
+    oc get "${api_category}" -l "${filter}" -o yaml > "${gather_dir}/${api_category}.yaml"
+  else
+    oc get "${api_category}" -o yaml > "${gather_dir}/${api_category}.yaml"
+  fi
 }
 
 function gatherOLMLogs() {
@@ -131,15 +152,25 @@ function gatherDefaults() {
   gatherPodLogs "${PROJECT}"
 
   # ZosCloudBroker, ZosEndpoint, SubOperatorConfig, OperatorCollection
-  gatherApiResources "zoscb.ibm.com"
+  gatherByResourceOrCategory "zoscb"
+  
   # CatalogSource, ClusterServiceVersion, Subscription, etc
-  gatherApiResources "operators.coreos.com"
-  # Deployments, ReplicaSets, etc
-  gatherApiResources "apps"
+  gatherByResourceOrCategory "olm"
+
+  # Deployments, ReplicaSets, Services, Pods
+  gatherByResourceOrCategory "all" "instance-name=${ZOSCB_INST_NAME}"
+
+  # Secrets
+  gatherByResourceOrCategory "secret" "instance-name=${ZOSCB_INST_NAME}"
+
+  # Route
+  gatherByResourceOrCategory "route" "instance-name=${ZOSCB_INST_NAME}"
+
   # Role, RoleBinding, etc
-  gatherApiResources "authorization.openshift.io"
+  gatherByResourceApiGroup "authorization.openshift.io"
+  
   # NetworkPolicy, Ingress
-  gatherApiResources "networking.k8s.io"
+  gatherByResourceApiGroup "networking.k8s.io"
 
   gatherOLMLogs
   gatherPVCDump
@@ -180,7 +211,11 @@ while [[ ${#} -gt 0 ]]; do
 done
 
 #TODO - Should probably move this into some better conditional logic - not all directories should be created
-logWarning "Gathering z/OS Cloud Broker MustGather Data in OCP project: ${PROJECT}"
+logWarning "Beginning z/OS Cloud Broker MustGather Data collection!"
+logWarning "Project/Namespace Name: ${PROJECT}"
+logWarning "ZosCloudBroker Instance Name: ${ZOSCB_INST_NAME}"
+echo "\n\n"
+logMessage "Writing data to ${DIR_MUST_GATHER}"
 
 # If no flags are passed then execute all configuration steps in sequence
 if [[ -z "${GATHER_API_RESOURCES}" ]] && [[ -z "${GATHER_PVC_DUMP}" ]] && [[ -z "${GATHER_OCP_AUDIT}" ]]; then
@@ -193,7 +228,7 @@ fi
 
 if [[ -n "${GATHER_API_RESOURCES}" ]]; then
   mkdir -pv "${DIR_MUST_GATHER_YAMLS}"
-  gatherApiResources "zoscb.ibm.com"
+  gatherByResourceApiGroup "zoscb.ibm.com"
 fi
 
 if [[ -n "${GATHER_PVC_DUMP}" ]]; then
