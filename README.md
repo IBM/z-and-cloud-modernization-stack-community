@@ -9,7 +9,7 @@ Please reference the product-specific directories for content related to a given
 
 ## Available Product Versions
 
-__*Note - Each Operator version is compatible with all corresponding OCI artifact | Licenses unless stated otherwise.__
+__*Note - Each Operator version is compatible with all corresponding OCI artifacts unless stated otherwise.__
 ## z/OS Package Manager <a name="zpm"></a>
 |  Product Version | OCI artifact | Supported Operator version | Find out more | 
 |-|-|-|-| 
