@@ -4,9 +4,11 @@ This community repo holds public content relevant to the IBM Z and Cloud Moderni
 Please reference the product-specific directories for content related to a given product.
 
 - [IBM z/OS Cloud Broker](zoscb/README.md)  
-  
-
-
+---
+**Note:** If you are using the URL or manual method for importing an operator collection in z/OS Cloud Broker and need to find and download the associated public key and signature file for that collection to use for collection validation during import, complete the following steps:
+1. Under the appropriate product heading under **Available Product Versions**, select the supported operator version that you need to download a public key and signature file for.
+1. Under **Assets**, click the file ending in `.pub` to download the public key and the file ending in `.sig` to download the signature file.
+---
 ## Available Product Versions
 
 __*Note - Each Operator version is compatible with all corresponding OCI artifacts unless stated otherwise.__
