@@ -44,6 +44,7 @@ __*Note - Each Operator version is compatible with all corresponding OCI artifac
 ## Open Enterprise SDK for Go <a name="go"></a>
 | Product Version | OCI artifact | License  | Find out more | 
 |-|-|-|-|
+| 1.18.0 | 1.18.0.0 | [Read here]([https://www14.software.ibm.com/cgi-bin/weblap/lap.pl?li_formnum=L-JYIP-C893U4](https://www14.software.ibm.com/cgi-bin/weblap/lap.pl?li_formnum=L-JYIP-CE5NF8)) | [Release notes](https://www.ibm.com/docs/en/SSV97FN_2022.1.1/golang/whats_new.html) |
 | 1.17.0 | 1.17.0.2 | [Read here](https://www14.software.ibm.com/cgi-bin/weblap/lap.pl?li_formnum=L-JYIP-C893U4) | [Release notes](https://www.ibm.com/docs/en/SSV97FN_2022.1.1/golang/whats_new.html) |
 | 1.17.0 | 1.17.0.1 | [Read here](https://www14.software.ibm.com/cgi-bin/weblap/lap.pl?li_formnum=L-JYIP-C893U4) | [Release notes](https://www.ibm.com/docs/en/SSV97FN_2022.1.1/golang/whats_new.html) |
 
