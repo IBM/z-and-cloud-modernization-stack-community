@@ -79,7 +79,7 @@ __*Note - Each Operator version is compatible with all corresponding OCI artifac
 ## Z Open Automation Utilities <a name="zoau"></a>
 |  Product Version | OCI artifact | License | Find out more | 
 |-|-|-|-|
-| 1.2.0 | 1.2.0.1 | [Read here](https://www14.software.ibm.com/cgi-bin/weblap/lap.pl?li_formnum=L-CWDG-C2B2C8) | [Release notes](https://www.ibm.com/docs/en/SSV97FN_2022.1.1/zoau/zstack_release_notes_zoau.html) |
+| 1.2.0 | 1.2.0.1 | [Read here](https://www14.software.ibm.com/cgi-bin/weblap/lap.pl?li_formnum=L-CWDG-C2AUJQ) | [Release notes](https://www.ibm.com/docs/en/SSV97FN_2022.1.1/zoau/zstack_release_notes_zoau.html) |
 
 | Supported Operator versions | 
 |-| 
