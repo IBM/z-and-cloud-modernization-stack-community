@@ -13,7 +13,7 @@ Please reference the product-specific directories for content related to a given
 
 __*Note - Each Operator version is compatible with all corresponding OCI artifacts unless stated otherwise.__
 ## z/OS Package Manager <a name="zpm"></a>
-To find out more, read the [release notes](https://www.ibm.com/docs/en/SSV97FN_2022.1.1/zpm/release-notes.html)
+To find out more, read the [release notes](https://www.ibm.com/docs/en/SSV97FN_2022.1.1/zpm/release-notes.html).
 |  Product Version | OCI artifact | Supported Operator version |
 |-|-|-|
 | 1.0.4 | 1.0.4 | [1.0.4](https://github.com/IBM/zos_package_manager_operator/releases/tag/v1.0.4) |
@@ -21,7 +21,7 @@ To find out more, read the [release notes](https://www.ibm.com/docs/en/SSV97FN_2
 
 
 ## C/C++ for Open Enterprise Languages on z/OS <a name="cpp"></a>
-To find out more, read the [release notes](https://www.ibm.com/docs/en/SSV97FN_2022.1.1/cpp_compiler/release_notes.html)
+To find out more, read the [release notes](https://www.ibm.com/docs/en/SSV97FN_2022.1.1/cpp_compiler/release_notes.html).
 |  Product Version | OCI artifact | License |
 |-|-|-|
 | 1.1.0 | 1.0.0.0 | [Read here](https://www14.software.ibm.com/cgi-bin/weblap/lap.pl?li_formnum=L-MCHN-C9NRTZ) | [Release notes](https://www.ibm.com/docs/en/SSV97FN_2022.1.1/cpp_compiler/release_notes.html) |
@@ -32,7 +32,7 @@ To find out more, read the [release notes](https://www.ibm.com/docs/en/SSV97FN_2
 | [1.0.0](https://github.com/IBM/zos_opencpp_operator/releases/tag/v1.0.0) |
 
 ## 64-bit SDK for z/OS, Java Technology Edition <a name="java"></a>
-To find out more, Read the [release notes](https://www.ibm.com/docs/en/SSV97FN_2022.1.1/java/com.ibm.java.80.doc/diag/preface/changes_80/changes.html)
+To find out more, read the [release notes](https://www.ibm.com/docs/en/SSV97FN_2022.1.1/java/com.ibm.java.80.doc/diag/preface/changes_80/changes.html).
 |  Product Version | OCI artifact | License  |
 |-|-|-|
 | 8.0.7 | 8.0.7.15 | [Read here](https://www14.software.ibm.com/cgi-bin/weblap/lap.pl?li_formnum=L-JPLW-AS3PVH) |
@@ -46,7 +46,7 @@ To find out more, Read the [release notes](https://www.ibm.com/docs/en/SSV97FN_2
 
 
 ## Open Enterprise SDK for Go <a name="go"></a>
-To find out more, Read the [release notes](https://www.ibm.com/docs/en/SSV97FN_2022.1.1/golang/whats_new.html)
+To find out more, read the [release notes](https://www.ibm.com/docs/en/SSV97FN_2022.1.1/golang/whats_new.html).
 | Product Version | OCI artifact | License  |
 |-|-|-|
 | 1.18.0 | 1.18.0.0 | [Read here](https://www14.software.ibm.com/cgi-bin/weblap/lap.pl?li_formnum=L-JYIP-CE5NF8) |
@@ -61,7 +61,7 @@ To find out more, Read the [release notes](https://www.ibm.com/docs/en/SSV97FN_2
 
 
 ## Open Enterprise SDK for Node.js <a name="nodejs"></a>
-To find out more, read the [release notes](https://www.ibm.com/docs/en/SSV97FN_2022.1.1/nodejs/release_notes.html)
+To find out more, read the [release notes](https://www.ibm.com/docs/en/SSV97FN_2022.1.1/nodejs/release_notes.html).
 | Product Version | OCI artifact | License  | 
 |-|-|-|
 | [16.14.2](https://www.ibm.com/support/pages/fix-list-ibm-open-enterprise-sdk-nodejs#010422) | 16.0.0.2 | [Read here](https://www14.software.ibm.com/cgi-bin/weblap/lap.pl?li_formnum=L-MCHN-C79M8C) |
@@ -73,7 +73,7 @@ To find out more, read the [release notes](https://www.ibm.com/docs/en/SSV97FN_2
 | [1.0.0](https://github.com/IBM/zos_nodejs_operator/releases/tag/v1.0.0) | 
 
 ## Open Enterprise SDK for Python <a name="python"></a>
-To find out more, read the [release notes](https://www.ibm.com/docs/en/SSV97FN_2022.1.1/python/release_note.html)
+To find out more, read the [release notes](https://www.ibm.com/docs/en/SSV97FN_2022.1.1/python/release_note.html).
 |  Product Version | OCI artifact | License |
 |-|-|-|
 | 3.10.0 | 3.10.0.2 | [Read here](https://www14.software.ibm.com/cgi-bin/weblap/lap.pl?li_formnum=L-JYIP-C7JT5W) |
@@ -87,7 +87,7 @@ To find out more, read the [release notes](https://www.ibm.com/docs/en/SSV97FN_2
 
 
 ## Z Open Automation Utilities <a name="zoau"></a>
-To find out more, read the [release notes](https://www.ibm.com/docs/en/SSV97FN_2022.1.1/zoau/zstack_release_notes_zoau.html)
+To find out more, read the [release notes](https://www.ibm.com/docs/en/SSV97FN_2022.1.1/zoau/zstack_release_notes_zoau.html).
 |  Product Version | OCI artifact | License |
 |-|-|-|-|
 | 1.2.0 | 1.2.0.1 | [Read here](https://www14.software.ibm.com/cgi-bin/weblap/lap.pl?li_formnum=L-CWDG-C2AUJQ) |
