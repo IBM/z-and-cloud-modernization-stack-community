@@ -64,12 +64,12 @@ To find out more, Read the [release notes](https://www.ibm.com/docs/en/SSV97FN_2
 To find out more, read the [release notes](https://www.ibm.com/docs/en/SSV97FN_2022.1.1/nodejs/release_notes.html)
 | Product Version | OCI artifact | License  | 
 |-|-|-|
-| [16.14.2](https://www.ibm.com/support/pages/fix-list-ibm-open-enterprise-sdk-nodejs#010422) | 16.0.0.2 |
-| [16.13.2](https://www.ibm.com/support/pages/fix-list-ibm-open-enterprise-sdk-nodejs#110222) | 16.0.0.1 |
+| [16.14.2](https://www.ibm.com/support/pages/fix-list-ibm-open-enterprise-sdk-nodejs#010422) | 16.0.0.2 | [Read here](https://www14.software.ibm.com/cgi-bin/weblap/lap.pl?li_formnum=L-MCHN-C79M8C) |
+| [16.13.2](https://www.ibm.com/support/pages/fix-list-ibm-open-enterprise-sdk-nodejs#110222) | 16.0.0.1 | [Read here](https://www14.software.ibm.com/cgi-bin/weblap/lap.pl?li_formnum=L-MCHN-C79M8C) |
 
 | Supported Operator versions | 
 |-|
- | [1.0.1](https://github.com/IBM/zos_nodejs_operator/releases/tag/v1.0.1) |
+| [1.0.1](https://github.com/IBM/zos_nodejs_operator/releases/tag/v1.0.1) |
 | [1.0.0](https://github.com/IBM/zos_nodejs_operator/releases/tag/v1.0.0) | 
 
 ## Open Enterprise SDK for Python <a name="python"></a>
