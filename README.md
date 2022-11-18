@@ -48,13 +48,10 @@ To find out more, read the [release notes](https://www.ibm.com/docs/en/SSV97FN_2
 
 
 ## Open Enterprise SDK for Go <a name="go"></a>
-To find out more, read the [release notes](https://www.ibm.com/docs/en/SSV97FN_2022.1.1/golang/whats_new.html).
+To find out more, read the [release notes](https://www.ibm.com/docs/en/SSV97FN_latest/golang/whats_new.html).
 | Product Version | OCI artifact | License  |
 |-|-|-|
 | 1.18.0 | 1.18.0.0 | [Read here](https://www14.software.ibm.com/cgi-bin/weblap/lap.pl?li_formnum=L-JYIP-CE5NF8) |
-| 1.17.0 | 1.17.0.3 | [Read here](https://www14.software.ibm.com/cgi-bin/weblap/lap.pl?li_formnum=L-JYIP-C893U4) |
-| 1.17.0 | 1.17.0.2 | [Read here](https://www14.software.ibm.com/cgi-bin/weblap/lap.pl?li_formnum=L-JYIP-C893U4) |
-| 1.17.0 | 1.17.0.1 | [Read here](https://www14.software.ibm.com/cgi-bin/weblap/lap.pl?li_formnum=L-JYIP-C893U4) |
 
  Supported Operator versions |
 |-| 
