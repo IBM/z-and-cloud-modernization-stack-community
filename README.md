@@ -14,10 +14,11 @@ Please reference the product-specific directories for content related to a given
 __*Note - Each Operator version is compatible with all corresponding OCI artifacts unless stated otherwise.__
 ## z/OS Package Manager <a name="zpm"></a>
 To find out more, read the [release notes](https://www.ibm.com/docs/en/SSV97FN_2022.1.1/zpm/release-notes.html).
-|  Product Version | OCI artifact | Supported Operator version |
+|  Product Version | Supported Operator version |
 |-|-|-|
-| 1.0.4 | 1.0.4 | [1.0.4](https://github.com/IBM/zos_package_manager_operator/releases/tag/v1.0.4) |
-| 1.0.0 | 1.0.0 | [1.0.0](https://github.com/IBM/zos_package_manager_operator/releases/tag/v1.0.0) |
+| 1.0.2 | [1.0.5](https://github.com/IBM/zos_package_manager_operator/releases/tag/v1.0.5) |
+| 1.0.1 | [1.0.4](https://github.com/IBM/zos_package_manager_operator/releases/tag/v1.0.4) |
+| 1.0.0 | [1.0.0](https://github.com/IBM/zos_package_manager_operator/releases/tag/v1.0.0) |
 
 
 ## C/C++ for Open Enterprise Languages on z/OS <a name="cpp"></a>
@@ -29,6 +30,7 @@ To find out more, read the [release notes](https://www.ibm.com/docs/en/SSV97FN_2
 
 |  Supported Operator versions |
 |-| 
+| [1.0.3](https://github.com/IBM/zos_opencpp_operator/releases/tag/v1.0.3) | 
 | [1.0.2](https://github.com/IBM/zos_opencpp_operator/releases/tag/v1.0.2) | 
 | [1.0.1](https://github.com/IBM/zos_opencpp_operator/releases/tag/v1.0.1) | 
 | [1.0.0](https://github.com/IBM/zos_opencpp_operator/releases/tag/v1.0.0) |
@@ -43,6 +45,7 @@ To find out more, read the [release notes](https://www.ibm.com/docs/en/SSV97FN_2
 
 | Supported Operator versions | 
 |-|
+| [1.0.3](https://github.com/IBM/zos_java_operator/releases/tag/v1.0.3) | 
 | [1.0.2](https://github.com/IBM/zos_java_operator/releases/tag/v1.0.2) | 
 | [1.0.1](https://github.com/IBM/zos_java_operator/releases/tag/v1.0.1) | 
 | [1.0.0](https://github.com/IBM/zos_java_operator/releases/tag/v1.0.0) | 
@@ -52,11 +55,13 @@ To find out more, read the [release notes](https://www.ibm.com/docs/en/SSV97FN_2
 To find out more, read the [release notes](https://www.ibm.com/docs/en/SSV97FN_latest/golang/whats_new.html).
 | Product Version | OCI artifact | License  |
 |-|-|-|
+| 1.18.0 | 1.18.0.3 | [Read here](https://www14.software.ibm.com/cgi-bin/weblap/lap.pl?li_formnum=L-JYIP-CE5NF8) |
 | 1.18.0 | 1.18.0.1 | [Read here](https://www14.software.ibm.com/cgi-bin/weblap/lap.pl?li_formnum=L-JYIP-CE5NF8) |
 | 1.18.0 | 1.18.0.0 | [Read here](https://www14.software.ibm.com/cgi-bin/weblap/lap.pl?li_formnum=L-JYIP-CE5NF8) |
 
  Supported Operator versions |
 |-| 
+| [1.0.3](https://github.com/IBM/zos_go_operator/releases/tag/v1.0.3) |
 | [1.0.2](https://github.com/IBM/zos_go_operator/releases/tag/v1.0.2) | 
 | [1.0.1](https://github.com/IBM/zos_go_operator/releases/tag/v1.0.1) | 
 | [1.0.0](https://github.com/IBM/zos_go_operator/releases/tag/v1.0.0) | 
@@ -71,6 +76,7 @@ To find out more, read the [release notes](https://www.ibm.com/docs/en/SSV97FN_2
 
 | Supported Operator versions | 
 |-|
+| [1.0.3](https://github.com/IBM/zos_nodejs_operator/releases/tag/v1.0.3) |
 | [1.0.2](https://github.com/IBM/zos_nodejs_operator/releases/tag/v1.0.2) |
 | [1.0.1](https://github.com/IBM/zos_nodejs_operator/releases/tag/v1.0.1) |
 | [1.0.0](https://github.com/IBM/zos_nodejs_operator/releases/tag/v1.0.0) | 
@@ -85,6 +91,7 @@ To find out more, read the [release notes](https://www.ibm.com/docs/en/SSV97FN_2
 
 | Supported Operator versions | 
 |-| 
+| [1.0.3](https://github.com/IBM/zos_python_operator/releases/tag/v1.0.3) | 
 | [1.0.2](https://github.com/IBM/zos_python_operator/releases/tag/v1.0.2) | 
 | [1.0.1](https://github.com/IBM/zos_python_operator/releases/tag/v1.0.1) | 
 | [1.0.0](https://github.com/IBM/zos_python_operator/releases/tag/v1.0.0) | 
@@ -94,11 +101,13 @@ To find out more, read the [release notes](https://www.ibm.com/docs/en/SSV97FN_2
 To find out more, read the [release notes](https://www.ibm.com/docs/en/SSV97FN_2022.1.1/zoau/zstack_release_notes_zoau.html).
 |  Product Version | OCI artifact | License |
 |-|-|-|
+| 1.2.1 | 1.2.1.0 | [Read here](https://www14.software.ibm.com/cgi-bin/weblap/lap.pl?li_formnum=L-CWDG-C2AUJQ) |
 | 1.2.0 | 1.2.0.2 | [Read here](https://www14.software.ibm.com/cgi-bin/weblap/lap.pl?li_formnum=L-CWDG-C2AUJQ) |
 | 1.2.0 | 1.2.0.1 | [Read here](https://www14.software.ibm.com/cgi-bin/weblap/lap.pl?li_formnum=L-CWDG-C2AUJQ) |
 
 | Supported Operator versions | 
 |-| 
+| [1.0.3](https://github.com/IBM/zos_zoau_operator/releases/tag/v1.0.3) |
 | [1.0.2](https://github.com/IBM/zos_zoau_operator/releases/tag/v1.0.2) |
 | [1.0.1](https://github.com/IBM/zos_zoau_operator/releases/tag/v1.0.1) |
 | [1.0.0](https://github.com/IBM/zos_zoau_operator/releases/tag/v1.0.0) |
