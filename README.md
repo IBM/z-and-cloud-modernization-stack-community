@@ -16,6 +16,7 @@ __*Note - Each Operator version is compatible with all corresponding OCI artifac
 To find out more, read the [release notes](https://www.ibm.com/docs/en/SSV97FN_2022.1.1/zpm/release-notes.html).
 |  Product Version | Supported Operator version |
 |-|-|
+| 1.1.0 | [2.0.0](https://github.com/IBM/zos_package_manager_operator/releases/tag/v2.0.0) |
 | 1.0.2 | [1.0.5](https://github.com/IBM/zos_package_manager_operator/releases/tag/v1.0.5) |
 | 1.0.1 | [1.0.4](https://github.com/IBM/zos_package_manager_operator/releases/tag/v1.0.4) |
 | 1.0.0 | [1.0.0](https://github.com/IBM/zos_package_manager_operator/releases/tag/v1.0.0) |
@@ -30,6 +31,7 @@ To find out more, read the [release notes](https://www.ibm.com/docs/en/SSV97FN_2
 
 |  Supported Operator versions |
 |-| 
+| [2.0.0](https://github.com/IBM/zos_package_manager_operator/releases/tag/v2.0.0) |
 | [1.0.3](https://github.com/IBM/zos_opencpp_operator/releases/tag/v1.0.3) | 
 | [1.0.2](https://github.com/IBM/zos_opencpp_operator/releases/tag/v1.0.2) | 
 | [1.0.1](https://github.com/IBM/zos_opencpp_operator/releases/tag/v1.0.1) | 
@@ -46,6 +48,7 @@ To find out more, read the [release notes](https://www.ibm.com/docs/en/SSV97FN_2
 
 | Supported Operator versions | 
 |-|
+| [2.0.0](https://github.com/IBM/zos_package_manager_operator/releases/tag/v2.0.0) |
 | [1.0.3](https://github.com/IBM/zos_java_operator/releases/tag/v1.0.3) | 
 | [1.0.2](https://github.com/IBM/zos_java_operator/releases/tag/v1.0.2) | 
 | [1.0.1](https://github.com/IBM/zos_java_operator/releases/tag/v1.0.1) | 
@@ -62,6 +65,7 @@ To find out more, read the [release notes](https://www.ibm.com/docs/en/SSV97FN_l
 
  Supported Operator versions |
 |-| 
+| [2.0.0](https://github.com/IBM/zos_package_manager_operator/releases/tag/v2.0.0) |
 | [1.0.3](https://github.com/IBM/zos_go_operator/releases/tag/v1.0.3) |
 | [1.0.2](https://github.com/IBM/zos_go_operator/releases/tag/v1.0.2) | 
 | [1.0.1](https://github.com/IBM/zos_go_operator/releases/tag/v1.0.1) | 
@@ -77,6 +81,7 @@ To find out more, read the [release notes](https://www.ibm.com/docs/en/SSV97FN_2
 
 | Supported Operator versions | 
 |-|
+| [2.0.0](https://github.com/IBM/zos_package_manager_operator/releases/tag/v2.0.0) |
 | [1.0.3](https://github.com/IBM/zos_nodejs_operator/releases/tag/v1.0.3) |
 | [1.0.2](https://github.com/IBM/zos_nodejs_operator/releases/tag/v1.0.2) |
 | [1.0.1](https://github.com/IBM/zos_nodejs_operator/releases/tag/v1.0.1) |
@@ -92,6 +97,7 @@ To find out more, read the [release notes](https://www.ibm.com/docs/en/SSV97FN_2
 
 | Supported Operator versions | 
 |-| 
+| [2.0.0](https://github.com/IBM/zos_package_manager_operator/releases/tag/v2.0.0) |
 | [1.0.3](https://github.com/IBM/zos_python_operator/releases/tag/v1.0.3) | 
 | [1.0.2](https://github.com/IBM/zos_python_operator/releases/tag/v1.0.2) | 
 | [1.0.1](https://github.com/IBM/zos_python_operator/releases/tag/v1.0.1) | 
@@ -108,6 +114,7 @@ To find out more, read the [release notes](https://www.ibm.com/docs/en/SSV97FN_2
 
 | Supported Operator versions | 
 |-| 
+| [2.0.0](https://github.com/IBM/zos_package_manager_operator/releases/tag/v2.0.0) |
 | [1.0.3](https://github.com/IBM/zos_zoau_operator/releases/tag/v1.0.3) |
 | [1.0.2](https://github.com/IBM/zos_zoau_operator/releases/tag/v1.0.2) |
 | [1.0.1](https://github.com/IBM/zos_zoau_operator/releases/tag/v1.0.1) |
