@@ -26,8 +26,7 @@ To find out more, read the [release notes](https://www.ibm.com/docs/en/SSV97FN_2
 To find out more, read the [release notes](https://www.ibm.com/docs/en/SSV97FN_2022.1.1/cpp_compiler/release_notes.html).
 |  Product Version | OCI artifact | License |
 |-|-|-|
-| 1.0.0 | 1.0.0.1 | [Read here](https://www14.software.ibm.com/cgi-bin/weblap/lap.pl?li_formnum=L-MCHN-C9NRTZ) | [Release notes](https://www.ibm.com/docs/en/SSV97FN_2022.1.1/cpp_compiler/release_notes.html) |
-| 1.0.0 | 1.0.0.0 | [Read here](https://www14.software.ibm.com/cgi-bin/weblap/lap.pl?li_formnum=L-MCHN-C9NRTZ) | [Release notes](https://www.ibm.com/docs/en/SSV97FN_2022.1.1/cpp_compiler/release_notes.html) |
+| 2.0.0 | 2.0.0.0 | [Read here](https://www14.software.ibm.com/cgi-bin/weblap/lap.pl?li_formnum=L-PMEX-526X6D) | [Release notes](https://www.ibm.com/docs/en/SSV97FN_2022.1.1/cpp_compiler/release_notes.html) |
 
 |  Supported Operator versions |
 |-| 
@@ -59,9 +58,7 @@ To find out more, read the [release notes](https://www.ibm.com/docs/en/SSV97FN_2
 To find out more, read the [release notes](https://www.ibm.com/docs/en/SSV97FN_latest/golang/whats_new.html).
 | Product Version | OCI artifact | License  |
 |-|-|-|
-| 1.18.0 | 1.18.0.3 | [Read here](https://www14.software.ibm.com/cgi-bin/weblap/lap.pl?li_formnum=L-JYIP-CE5NF8) |
-| 1.18.0 | 1.18.0.1 | [Read here](https://www14.software.ibm.com/cgi-bin/weblap/lap.pl?li_formnum=L-JYIP-CE5NF8) |
-| 1.18.0 | 1.18.0.0 | [Read here](https://www14.software.ibm.com/cgi-bin/weblap/lap.pl?li_formnum=L-JYIP-CE5NF8) |
+| 1.19.0 | 1.19.0.3 | [Read here](https://www14.software.ibm.com/cgi-bin/weblap/lap.pl?li_formnum=L-EXWD-SDP99N) |
 
  Supported Operator versions |
 |-| 
@@ -76,8 +73,7 @@ To find out more, read the [release notes](https://www.ibm.com/docs/en/SSV97FN_l
 To find out more, read the [release notes](https://www.ibm.com/docs/en/SSV97FN_2022.1.1/nodejs/release_notes.html).
 | Product Version | OCI artifact | License  | 
 |-|-|-|
-| [16.14.2](https://www.ibm.com/support/pages/fix-list-ibm-open-enterprise-sdk-nodejs#010422) | 16.0.0.2 | [Read here](https://www14.software.ibm.com/cgi-bin/weblap/lap.pl?li_formnum=L-MCHN-C79M8C) |
-| [16.13.2](https://www.ibm.com/support/pages/fix-list-ibm-open-enterprise-sdk-nodejs#110222) | 16.0.0.1 | [Read here](https://www14.software.ibm.com/cgi-bin/weblap/lap.pl?li_formnum=L-MCHN-C79M8C) |
+| 18.14.2 | 18.0.0.1 | [Read here](https://www14.software.ibm.com/cgi-bin/weblap/lap.pl?li_formnum=L-SDPU-Z5XJSB) |
 
 | Supported Operator versions | 
 |-|
@@ -91,9 +87,10 @@ To find out more, read the [release notes](https://www.ibm.com/docs/en/SSV97FN_2
 To find out more, read the [release notes](https://www.ibm.com/docs/en/SSV97FN_2022.1.1/python/release_note.html).
 |  Product Version | OCI artifact | License |
 |-|-|-|
+| 3.11.0 | 3.11.0.1 | [Read here](https://www14.software.ibm.com/cgi-bin/weblap/lap.pl?li_formnum=L-CFMQ-2399K3) |
+| 3.10.0 | 3.10.0.5 | [Read here](https://www14.software.ibm.com/cgi-bin/weblap/lap.pl?li_formnum=L-JYIP-C7JT5W) |
 | 3.10.0 | 3.10.0.2 | [Read here](https://www14.software.ibm.com/cgi-bin/weblap/lap.pl?li_formnum=L-JYIP-C7JT5W) |
 | 3.10.0 | 3.10.0.1 | [Read here](https://www14.software.ibm.com/cgi-bin/weblap/lap.pl?li_formnum=L-JYIP-C7JT5W) |
-| 3.10.0 | 3.10.0.0 | [Read here](https://www14.software.ibm.com/cgi-bin/weblap/lap.pl?li_formnum=L-JYIP-C7JT5W) |
 
 | Supported Operator versions | 
 |-| 
@@ -108,6 +105,7 @@ To find out more, read the [release notes](https://www.ibm.com/docs/en/SSV97FN_2
 To find out more, read the [release notes](https://www.ibm.com/docs/en/SSV97FN_2022.1.1/zoau/zstack_release_notes_zoau.html).
 |  Product Version | OCI artifact | License |
 |-|-|-|
+| 1.2.2.1 | 1.2.2.1 | [Read here](https://www14.software.ibm.com/cgi-bin/weblap/lap.pl?li_formnum=L-CWDG-C2AUJQ) |
 | 1.2.1 | 1.2.1.0 | [Read here](https://www14.software.ibm.com/cgi-bin/weblap/lap.pl?li_formnum=L-CWDG-C2AUJQ) |
 | 1.2.0 | 1.2.0.2 | [Read here](https://www14.software.ibm.com/cgi-bin/weblap/lap.pl?li_formnum=L-CWDG-C2AUJQ) |
 | 1.2.0 | 1.2.0.1 | [Read here](https://www14.software.ibm.com/cgi-bin/weblap/lap.pl?li_formnum=L-CWDG-C2AUJQ) |
