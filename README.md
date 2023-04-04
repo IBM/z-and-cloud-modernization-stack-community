@@ -9,9 +9,17 @@ Please reference the product-specific directories for content related to a given
 1. Under the appropriate product heading under **Available Product Versions**, select the supported operator version that you need to download a public key and signature file for.
 1. Under **Assets**, click the file ending in `.pub` to download the public key and the file ending in `.sig` to download the signature file.
 ---
-## Available Product Versions
+## Available Operators and Product Versions
 
-__*Note - Each Operator version is compatible with all corresponding OCI artifacts unless stated otherwise.__
+__*Note - For products that are installed with the z/OS Package Manager, each Operator version is compatible with all corresponding OCI artifacts unless stated otherwise.__
+___
+## IBM IMS Operator collection
+To find out more, read the [release notes](https://www.ibm.com/docs/en/cloud-paks/z-modernization-stack/2023.1?topic=operator-release-notes).  
+|Supported Operator version |
+| - |
+[1.0.0](https://github.com/IBM/zos_ims_operator/releases/tag/v1.0.0) 
+
+___
 ## z/OS Package Manager <a name="zpm"></a>
 To find out more, read the [release notes](https://www.ibm.com/docs/en/SSV97FN_2022.1.1/zpm/release-notes.html).
 |  Product Version | Supported Operator version |
