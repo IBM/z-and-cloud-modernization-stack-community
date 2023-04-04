@@ -13,7 +13,7 @@ Please reference the product-specific directories for content related to a given
 
 __*Note - For products that are installed with the z/OS Package Manager, each Operator version is compatible with all corresponding OCI artifacts unless stated otherwise.__
 ___
-## IBM® IMS Operator collection
+## IBM IMS Operator collection
 To find out more, read the [release notes](https://www.ibm.com/docs/SSV97FN_latest/zstack/operators_ims.html).  
 |Supported Operator version |
 | - |
