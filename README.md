@@ -48,6 +48,7 @@ To find out more, read the [release notes](https://www.ibm.com/docs/en/SSV97FN_2
 To find out more, read the [release notes](https://www.ibm.com/docs/en/SSV97FN_2022.1.1/java/com.ibm.java.80.doc/diag/preface/changes_80/changes.html).
 |  Product Version | OCI artifact | License  |
 |-|-|-|
+| 8.0.8 | 8.0.8.8 | [Read here](https://www14.software.ibm.com/cgi-bin/weblap/lap.pl?li_formnum=L-JPLW-AS3PVH) |
 | 8.0.7 | 8.0.7.20 | [Read here](https://www14.software.ibm.com/cgi-bin/weblap/lap.pl?li_formnum=L-JPLW-AS3PVH) |
 | 8.0.7 | 8.0.7.15 | [Read here](https://www14.software.ibm.com/cgi-bin/weblap/lap.pl?li_formnum=L-JPLW-AS3PVH) |
 | 8.0.7 | 8.0.7.10 | [Read here](https://www14.software.ibm.com/cgi-bin/weblap/lap.pl?li_formnum=L-JPLW-AS3PVH) |
