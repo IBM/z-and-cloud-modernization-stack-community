@@ -22,12 +22,12 @@ To find out more, read the [release notes](https://www.ibm.com/docs/en/cloud-pak
 ___
 ## z/OS Package Manager <a name="zpm"></a>
 To find out more, read the [release notes](https://www.ibm.com/docs/en/SSV97FN_2022.1.1/zpm/release-notes.html).
-|  Product Version | Supported Operator version |
-|-|-|
-| 1.1.0 | [2.0.0](https://github.com/IBM/zos_package_manager_operator/releases/tag/v2.0.0) |
-| 1.0.2 | [1.0.5](https://github.com/IBM/zos_package_manager_operator/releases/tag/v1.0.5) |
-| 1.0.1 | [1.0.4](https://github.com/IBM/zos_package_manager_operator/releases/tag/v1.0.4) |
-| 1.0.0 | [1.0.0](https://github.com/IBM/zos_package_manager_operator/releases/tag/v1.0.0) |
+|  Product Version | Supported Operator version | License |
+|-|-|-| 
+| 1.1.0 | [2.0.0](https://github.com/IBM/zos_package_manager_operator/releases/tag/v2.0.0) | [Read here](https://www.ibm.com/support/customer/csol/terms/?id=L-YJCB-2HHW29) |
+| 1.0.2 | [1.0.5](https://github.com/IBM/zos_package_manager_operator/releases/tag/v1.0.5) | |
+| 1.0.1 | [1.0.4](https://github.com/IBM/zos_package_manager_operator/releases/tag/v1.0.4) | | 
+| 1.0.0 | [1.0.0](https://github.com/IBM/zos_package_manager_operator/releases/tag/v1.0.0) | |
 
 
 ## C/C++ for Open Enterprise Languages on z/OS <a name="cpp"></a>
