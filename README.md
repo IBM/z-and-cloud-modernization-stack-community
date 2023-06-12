@@ -14,7 +14,7 @@ Please reference the product-specific directories for content related to a given
 __*Note - For products that are installed with the z/OS Package Manager, each Operator version is compatible with all corresponding OCI artifacts unless stated otherwise.*__
 ___
 While installing a product by using z/OS Package Manager, make sure that the name matches the OCI artifact name on the registry. Listed below are some examples of supported products and their OCI names that you can provide in the **z/OS Product Artifact Name** field during the product installation.
-| **Product Name** | **Product OCI name** |
+| **Product Name** | **Product OCI Name** |
 |-------------|-----------------|
 |[C/C++ for Open Enterprise Languages on z/OS](#cpp)|oelcpp|
 |[64-bit SDK for z/OS, Java Technology Edition](java)|java|
@@ -23,14 +23,14 @@ While installing a product by using z/OS Package Manager, make sure that the nam
 |[Open Enterprise SDK for Python](python)|python|
 |[Z Open Automation Utilities](zoau)|zoau|
 
-## IBM IMS Operator collection
+## IMS Operator collection
 To find out more, read the [release notes](https://www.ibm.com/docs/en/cloud-paks/z-modernization-stack/2023.1?topic=operator-release-notes).  
 |Supported Operator version | License |
 | - | - |
 | [1.0.0](https://github.com/IBM/zos_ims_operator/releases/tag/v1.0.0) | [Read here](https://www14.software.ibm.com/cgi-bin/weblap/lap.pl?li_formnum=L-CAQZ-GR4N57) |
 
 ___
-## z/OS Package Manager <a name="zpm"></a>
+## z/OS Package Manager Operator collection <a name="zpm"></a>
 To find out more, read the [release notes](https://www.ibm.com/docs/en/SSV97FN_2022.1.1/zpm/release-notes.html).
 |  Product Version | Supported Operator version | License |
 |-|-|-| 
