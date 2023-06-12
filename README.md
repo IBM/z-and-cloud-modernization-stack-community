@@ -11,8 +11,18 @@ Please reference the product-specific directories for content related to a given
 ---
 ## Available Operators and Product Versions
 
-__*Note - For products that are installed with the z/OS Package Manager, each Operator version is compatible with all corresponding OCI artifacts unless stated otherwise.__
+__*Note - For products that are installed with the z/OS Package Manager, each Operator version is compatible with all corresponding OCI artifacts unless stated otherwise.*__
 ___
+While installing a product by using z/OS Package Manager, make sure that the name matches the OCI artifact name on the registry. Listed below are some examples of supported products and their OCI names that you can provide in the **z/OS Product Artifact Name** field during the product installation.
+| **Product Name** | **Product OCI name** |
+|-------------|-----------------|
+|[C/C++ for Open Enterprise Languages on z/OS](#cpp)|oelcpp|
+|[64-bit SDK for z/OS, Java Technology Edition](java)|java|
+|[Open Enterprise SDK for Go](go)|golang|
+|[Open Enterprise SDK for Node.js](nodejs)|node|
+|[Open Enterprise SDK for Python](python)|python|
+|[Z Open Automation Utilities](zoau)|zoau|
+
 ## IBM IMS Operator collection
 To find out more, read the [release notes](https://www.ibm.com/docs/en/cloud-paks/z-modernization-stack/2023.1?topic=operator-release-notes).  
 |Supported Operator version | License |
