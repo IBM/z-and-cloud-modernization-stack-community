@@ -17,11 +17,11 @@ While installing a product by using z/OS Package Manager, make sure that the nam
 | **Product Name** | **Product OCI Name** |
 |-------------|-----------------|
 |[C/C++ for Open Enterprise Languages on z/OS](#cpp)|oelcpp|
-|[64-bit SDK for z/OS, Java Technology Edition](java)|java|
-|[Open Enterprise SDK for Go](go)|golang|
-|[Open Enterprise SDK for Node.js](nodejs)|node|
-|[Open Enterprise SDK for Python](python)|python|
-|[Z Open Automation Utilities](zoau)|zoau|
+|[64-bit SDK for z/OS, Java Technology Edition](#java)|java|
+|[Open Enterprise SDK for Go](#go)|golang|
+|[Open Enterprise SDK for Node.js](#nodejs)|node|
+|[Open Enterprise SDK for Python](#python)|python|
+|[Z Open Automation Utilities](#zoau)|zoau|
 
 ## IMS Operator collection
 To find out more, read the [release notes](https://www.ibm.com/docs/en/cloud-paks/z-modernization-stack/2023.1?topic=operator-release-notes). 
