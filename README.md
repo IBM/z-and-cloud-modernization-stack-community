@@ -13,7 +13,7 @@ Please reference the product-specific directories for content related to a given
 
 __*Note - For products that are installed with the z/OS Package Manager, each Operator version is compatible with all corresponding OCI artifacts unless stated otherwise.*__
 ___
-While installing a product by using z/OS Package Manager, make sure that the name matches the OCI artifact name on the registry. Listed below are some examples of supported products and their OCI names that you can provide in the **z/OS Product Artifact Name** field during the product installation.
+While installing a product by using z/OS Package Manager, make sure that the name matches the OCI artifact name on the registry. Listed below are some examples of supported products and their OCI names that you can provide in the **z/OS Product OCI Artifact Name** field during the product installation.
 | **Product Name** | **Product OCI Artifact Name** |
 |-------------|-----------------|
 |[C/C++ for Open Enterprise Languages on z/OS](#cpp)|oelcpp|
@@ -24,7 +24,7 @@ While installing a product by using z/OS Package Manager, make sure that the nam
 |[Z Open Automation Utilities](#zoau)|zoau|
 
 ## IMS Operator collection
-To find out more, read the [release notes](https://www.ibm.com/docs/en/cloud-paks/z-modernization-stack/2023.1?topic=operator-release-notes). 
+To find out more, read the [release notes](https://www.ibm.com/docs/en/cloud-paks/z-modernization-stack/2023.2?topic=operator-release-notes). 
 |Supported Operator version | License |
 | - | - |
 | [1.0.0](https://github.com/IBM/zos_ims_operator/releases/tag/v1.0.0) | [Read here](https://www14.software.ibm.com/cgi-bin/weblap/lap.pl?li_formnum=L-CAQZ-GR4N57) |
@@ -34,7 +34,7 @@ ___
 To find out more, read the [release notes](https://www.ibm.com/docs/en/SSV97FN_2022.1.1/zpm/release-notes.html).
 |  Product Version | Supported Operator Version | License |
 |-|-|-| 
-| 1.1.1 | [2.0.1](https://github.com/IBM/zos_package_manager_operator/releases/tag/v2.0.0) | [Read here](https://www.ibm.com/support/customer/csol/terms/?id=L-YJCB-2HHW29) |
+| 1.1.1 | [2.0.1](https://github.com/IBM/zos_package_manager_operator/releases/tag/v2.0.1) | [Read here](https://www.ibm.com/support/customer/csol/terms/?id=L-YJCB-2HHW29) |
 | 1.1.0 | [2.0.0](https://github.com/IBM/zos_package_manager_operator/releases/tag/v2.0.0) | [Read here](https://www.ibm.com/support/customer/csol/terms/?id=L-YJCB-2HHW29) |
 | 1.0.2 | [1.0.5](https://github.com/IBM/zos_package_manager_operator/releases/tag/v1.0.5) | [Read here](https://www.ibm.com/support/customer/csol/terms/?id=L-ACRR-CERHLP&lc=en#detail-document) |
 | 1.0.1 | [1.0.4](https://github.com/IBM/zos_package_manager_operator/releases/tag/v1.0.4) | [Read here](https://www.ibm.com/support/customer/csol/terms/?id=L-ACRR-CERHLP&lc=en#detail-document) | 
@@ -42,7 +42,7 @@ To find out more, read the [release notes](https://www.ibm.com/docs/en/SSV97FN_2
 
 
 ## C/C++ for Open Enterprise Languages on z/OS <a name="cpp"></a>
-The Product OCI name is `oelcpp`. To find out more, read the [release notes](https://www.ibm.com/docs/en/SSV97FN_2022.1.1/cpp_compiler/release_notes.html).
+The Product OCI Artifact name is `oelcpp`. To find out more, read the [release notes](https://www.ibm.com/docs/en/SSV97FN_2022.1.1/cpp_compiler/release_notes.html).
 |  Product Version | OCI Artifact Version | License |
 |-|-|-|
 | 2.0.0 | 2.0.0.1 | [Read here](https://www14.software.ibm.com/cgi-bin/weblap/lap.pl?li_formnum=L-PMEX-526X6D) | [Release notes](https://www.ibm.com/docs/en/SSV97FN_2022.1.1/cpp_compiler/release_notes.html) |
