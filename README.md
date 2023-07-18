@@ -33,7 +33,9 @@ To find out more, read the [release notes](https://www.ibm.com/docs/en/cloud-pak
 To find out more, read the [release notes](https://www.ibm.com/docs/en/cloud-paks/z-modernization-stack/2023.2?topic=operator-release-notes). 
 |Supported Operator version | License |
 | - | - |
+| [1.1.0](https://github.com/IBM/zos_ims_operator/releases/tag/v1.1.0) | [Read here](https://github.com/IBM/zos_ims_operator/blob/main/LICENSE) |
 | [1.0.0](https://github.com/IBM/zos_ims_operator/releases/tag/v1.0.0) | [Read here](https://www14.software.ibm.com/cgi-bin/weblap/lap.pl?li_formnum=L-CAQZ-GR4N57) |
+
 
 ___
 ## z/OS Package Manager Operator collection <a name="zpm"></a>
