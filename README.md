@@ -23,6 +23,12 @@ While installing a product by using z/OS Package Manager, make sure that the nam
 |[Open Enterprise SDK for Python](#python)|python|
 |[Z Open Automation Utilities](#zoau)|zoau|
 
+## CICS Operator collection
+To find out more, read the [release notes](https://www.ibm.com/docs/en/cloud-paks/z-modernization-stack/2023.2?topic=cctcto-release-notes). 
+|Supported Operator version | License |
+| - | - |
+| [1.0.0](https://github.com/IBM/zos_cics_operator/releases/tag/v1.0.0) | [Read here](https://github.com/IBM/zos_cics_operator/blob/main/LICENSE.txt) |
+
 ## IMS Operator collection
 To find out more, read the [release notes](https://www.ibm.com/docs/en/cloud-paks/z-modernization-stack/2023.2?topic=operator-release-notes). 
 |Supported Operator version | License |
