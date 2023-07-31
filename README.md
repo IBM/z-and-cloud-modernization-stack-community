@@ -57,6 +57,7 @@ The Product OCI Artifact name is `oelcpp`. To find out more, read the [release n
 
 |  Supported Operator Versions |
 |-| 
+| [2.0.1](https://github.com/IBM/zos_package_manager_operator/releases/tag/v2.0.1) |
 | [2.0.0](https://github.com/IBM/zos_package_manager_operator/releases/tag/v2.0.0) |
 | [1.0.3](https://github.com/IBM/zos_opencpp_operator/releases/tag/v1.0.3) | 
 | [1.0.2](https://github.com/IBM/zos_opencpp_operator/releases/tag/v1.0.2) | 
@@ -76,6 +77,7 @@ The Product OCI Artifact name is `java`. To find out more, read the [release not
 
 | Supported Operator Versions | 
 |-|
+| [2.0.1](https://github.com/IBM/zos_package_manager_operator/releases/tag/v2.0.1) |
 | [2.0.0](https://github.com/IBM/zos_package_manager_operator/releases/tag/v2.0.0) |
 | [1.0.3](https://github.com/IBM/zos_java_operator/releases/tag/v1.0.3) | 
 | [1.0.2](https://github.com/IBM/zos_java_operator/releases/tag/v1.0.2) | 
@@ -91,6 +93,7 @@ The Product OCI Artifact name is `golang`. To find out more, read the [release n
 
  Supported Operator Versions |
 |-| 
+| [2.0.1](https://github.com/IBM/zos_package_manager_operator/releases/tag/v2.0.1) |
 | [2.0.0](https://github.com/IBM/zos_package_manager_operator/releases/tag/v2.0.0) |
 | [1.0.3](https://github.com/IBM/zos_go_operator/releases/tag/v1.0.3) |
 | [1.0.2](https://github.com/IBM/zos_go_operator/releases/tag/v1.0.2) | 
@@ -102,10 +105,12 @@ The Product OCI Artifact name is `golang`. To find out more, read the [release n
 The Product OCI Artifact name is `node`. To find out more, read the [release notes](https://www.ibm.com/docs/en/SSV97FN_2022.1.1/nodejs/release_notes.html).
 | Product Version | OCI Artifact Version | License  | 
 |-|-|-|
+| 18.16.0 | 18.0.0.3 | [Read here](https://www14.software.ibm.com/cgi-bin/weblap/lap.pl?li_formnum=L-SDPU-Z5XJSB) |
 | 18.14.2 | 18.0.0.2 | [Read here](https://www14.software.ibm.com/cgi-bin/weblap/lap.pl?li_formnum=L-SDPU-Z5XJSB) |
 
 | Supported Operator Versions | 
 |-|
+| [2.0.1](https://github.com/IBM/zos_package_manager_operator/releases/tag/v2.0.1) |
 | [2.0.0](https://github.com/IBM/zos_package_manager_operator/releases/tag/v2.0.0) |
 | [1.0.3](https://github.com/IBM/zos_nodejs_operator/releases/tag/v1.0.3) |
 | [1.0.2](https://github.com/IBM/zos_nodejs_operator/releases/tag/v1.0.2) |
@@ -123,6 +128,7 @@ The Product OCI Artifact name is `python`. To find out more, read the [release n
 
 | Supported Operator Versions | 
 |-| 
+| [2.0.1](https://github.com/IBM/zos_package_manager_operator/releases/tag/v2.0.1) |
 | [2.0.0](https://github.com/IBM/zos_package_manager_operator/releases/tag/v2.0.0) |
 | [1.0.3](https://github.com/IBM/zos_python_operator/releases/tag/v1.0.3) | 
 | [1.0.2](https://github.com/IBM/zos_python_operator/releases/tag/v1.0.2) | 
@@ -142,6 +148,7 @@ The Product OCI Artifact name is `zoau`. To find out more, read the [release not
 
 | Supported Operator Versions | 
 |-| 
+| [2.0.1](https://github.com/IBM/zos_package_manager_operator/releases/tag/v2.0.1) |
 | [2.0.0](https://github.com/IBM/zos_package_manager_operator/releases/tag/v2.0.0) |
 | [1.0.3](https://github.com/IBM/zos_zoau_operator/releases/tag/v1.0.3) |
 | [1.0.2](https://github.com/IBM/zos_zoau_operator/releases/tag/v1.0.2) |
