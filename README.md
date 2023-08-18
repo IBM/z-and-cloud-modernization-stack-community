@@ -122,6 +122,8 @@ The Product OCI Artifact name is `python`. To find out more, read the [release n
 |  Product Version | OCI Artifact Version | License |
 |-|-|-|
 | 3.11.0 | 3.11.0.1 | [Read here](https://www14.software.ibm.com/cgi-bin/weblap/lap.pl?li_formnum=L-CFMQ-2399K3) |
+| 3.11.0 | 3.11.0.4 | [Read here](https://www14.software.ibm.com/cgi-bin/weblap/lap.pl?li_formnum=L-CFMQ-2399K3) |
+| 3.10.0 | 3.10.0.7 | [Read here](https://www14.software.ibm.com/cgi-bin/weblap/lap.pl?li_formnum=L-JYIP-C7JT5W) |
 | 3.10.0 | 3.10.0.5 | [Read here](https://www14.software.ibm.com/cgi-bin/weblap/lap.pl?li_formnum=L-JYIP-C7JT5W) |
 | 3.10.0 | 3.10.0.2 | [Read here](https://www14.software.ibm.com/cgi-bin/weblap/lap.pl?li_formnum=L-JYIP-C7JT5W) |
 | 3.10.0 | 3.10.0.1 | [Read here](https://www14.software.ibm.com/cgi-bin/weblap/lap.pl?li_formnum=L-JYIP-C7JT5W) |
