@@ -107,6 +107,7 @@ The Product OCI Artifact name is `golang`. To find out more, read the [release n
 The Product OCI Artifact name is `node`. To find out more, read the [release notes](https://www.ibm.com/docs/en/SSV97FN_2022.1.1/nodejs/release_notes.html).
 | Product Version | OCI Artifact Version | License  | 
 |-|-|-|
+| 18.17.1 | 18.0.0.4 | [Read here](https://www14.software.ibm.com/cgi-bin/weblap/lap.pl?li_formnum=L-SDPU-Z5XJSB) |
 | 18.16.0 | 18.0.0.3 | [Read here](https://www14.software.ibm.com/cgi-bin/weblap/lap.pl?li_formnum=L-SDPU-Z5XJSB) |
 | 18.14.2 | 18.0.0.2 | [Read here](https://www14.software.ibm.com/cgi-bin/weblap/lap.pl?li_formnum=L-SDPU-Z5XJSB) |
 
