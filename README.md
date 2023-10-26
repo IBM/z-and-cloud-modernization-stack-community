@@ -97,6 +97,7 @@ The Product OCI Artifact name is `golang`. To find out more, read the [release n
 | Product Version | OCI Artifact Version | License  |
 |-|-|-|
 | 1.21.0 | 1.21.0.0 | [Read here](https://www14.software.ibm.com/cgi-bin/weblap/lap.pl?li_formnum=L-EXWD-SDP99N) |
+| 1.20.4 | 1.20.0.1 | [Read here](https://www14.software.ibm.com/cgi-bin/weblap/lap.pl?li_formnum=L-EXWD-SDP99N) |
 
  Supported Operator Versions |
 |-| 
