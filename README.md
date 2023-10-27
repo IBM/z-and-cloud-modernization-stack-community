@@ -27,36 +27,41 @@ While installing a product by using z/OS Package Manager, make sure that the nam
 To find out more, read the [release notes](https://www.ibm.com/docs/en/cloud-paks/z-modernization-stack/2023.2?topic=cctcto-release-notes). 
 |Supported Operator version | License |
 | - | - |
+| [1.0.1](https://github.com/IBM/zos_cics_operator/releases/tag/v1.0.1) | [Read here](https://github.com/IBM/zos_cics_operator/blob/main/LICENSE.txt) |
 | [1.0.0](https://github.com/IBM/zos_cics_operator/releases/tag/v1.0.0) | [Read here](https://github.com/IBM/zos_cics_operator/blob/main/LICENSE.txt) |
 
 ## IMS Operator collection
 To find out more, read the [release notes](https://www.ibm.com/docs/en/cloud-paks/z-modernization-stack/2023.2?topic=operator-release-notes). 
 |Supported Operator version | License |
 | - | - |
-| [1.1.0](https://github.com/IBM/zos_ims_operator/releases/tag/v1.1.0) | [Read here](https://github.com/IBM/zos_ims_operator/blob/main/LICENSE) |
+| [1.2.0](https://github.com/IBM/zos_ims_operator/releases/tag/v1.2.0) | [Read here](https://github.com/IBM/zos_ims_operator/blob/release-v1.2.0/LICENSE) |
+| [1.1.0](https://github.com/IBM/zos_ims_operator/releases/tag/v1.1.0) | [Read here](https://github.com/IBM/zos_ims_operator/blob/release-v1.1.0/LICENSE) |
 | [1.0.0](https://github.com/IBM/zos_ims_operator/releases/tag/v1.0.0) | [Read here](https://www14.software.ibm.com/cgi-bin/weblap/lap.pl?li_formnum=L-CAQZ-GR4N57) |
 
 
 ___
 ## z/OS Package Manager Operator collection <a name="zpm"></a>
 To find out more, read the [release notes](https://www.ibm.com/docs/en/SSV97FN_2022.1.1/zpm/release-notes.html).
-|  Product Version | Supported Operator Version | License |
+|  Operator Version | Supported CLI Version | License |
 |-|-|-| 
-| 1.1.1 | [2.0.1](https://github.com/IBM/zos_package_manager_operator/releases/tag/v2.0.1) | [Read here](https://www.ibm.com/support/customer/csol/terms/?id=L-YJCB-2HHW29) |
-| 1.1.0 | [2.0.0](https://github.com/IBM/zos_package_manager_operator/releases/tag/v2.0.0) | [Read here](https://www.ibm.com/support/customer/csol/terms/?id=L-YJCB-2HHW29) |
-| 1.0.2 | [1.0.5](https://github.com/IBM/zos_package_manager_operator/releases/tag/v1.0.5) | [Read here](https://www.ibm.com/support/customer/csol/terms/?id=L-ACRR-CERHLP&lc=en#detail-document) |
-| 1.0.1 | [1.0.4](https://github.com/IBM/zos_package_manager_operator/releases/tag/v1.0.4) | [Read here](https://www.ibm.com/support/customer/csol/terms/?id=L-ACRR-CERHLP&lc=en#detail-document) | 
-| 1.0.0 | [1.0.0](https://github.com/IBM/zos_package_manager_operator/releases/tag/v1.0.0) | [Read here](https://www.ibm.com/support/customer/csol/terms/?id=L-ACRR-CERHLP&lc=en#detail-document) |
+| [2.1.0](https://github.com/IBM/zos_package_manager_operator/releases/tag/v2.1.0) | 2.0.0 | [Read here](https://ibm.biz/BdSjdK) |
+| [2.0.1](https://github.com/IBM/zos_package_manager_operator/releases/tag/v2.0.1) | 1.1.1 | [Read here](https://www.ibm.com/support/customer/csol/terms/?id=L-YJCB-2HHW29) |
+| [2.0.0](https://github.com/IBM/zos_package_manager_operator/releases/tag/v2.0.0) | 1.1.0 | [Read here](https://www.ibm.com/support/customer/csol/terms/?id=L-YJCB-2HHW29) |
+| [1.0.5](https://github.com/IBM/zos_package_manager_operator/releases/tag/v1.0.5) | 1.0.2 | [Read here](https://www.ibm.com/support/customer/csol/terms/?id=L-ACRR-CERHLP&lc=en#detail-document) |
+| [1.0.4](https://github.com/IBM/zos_package_manager_operator/releases/tag/v1.0.4) | 1.0.1 | [Read here](https://www.ibm.com/support/customer/csol/terms/?id=L-ACRR-CERHLP&lc=en#detail-document) | 
+| [1.0.0](https://github.com/IBM/zos_package_manager_operator/releases/tag/v1.0.0) | 1.0.0 | [Read here](https://www.ibm.com/support/customer/csol/terms/?id=L-ACRR-CERHLP&lc=en#detail-document) |
 
 
 ## C/C++ for Open Enterprise Languages on z/OS <a name="cpp"></a>
 The Product OCI Artifact name is `oelcpp`. To find out more, read the [release notes](https://www.ibm.com/docs/en/SSV97FN_2022.1.1/cpp_compiler/release_notes.html).
 |  Product Version | OCI Artifact Version | License |
 |-|-|-|
+| 2.0.0 | 2.0.0.2 | [Read here](https://www14.software.ibm.com/cgi-bin/weblap/lap.pl?li_formnum=L-PMEX-526X6D) | [Release notes](https://www.ibm.com/docs/en/SSV97FN_2022.1.1/cpp_compiler/release_notes.html) |
 | 2.0.0 | 2.0.0.1 | [Read here](https://www14.software.ibm.com/cgi-bin/weblap/lap.pl?li_formnum=L-PMEX-526X6D) | [Release notes](https://www.ibm.com/docs/en/SSV97FN_2022.1.1/cpp_compiler/release_notes.html) |
 
 |  Supported Operator Versions |
 |-| 
+| [2.1.0](https://github.com/IBM/zos_package_manager_operator/releases/tag/v2.1.0) |
 | [2.0.1](https://github.com/IBM/zos_package_manager_operator/releases/tag/v2.0.1) |
 | [2.0.0](https://github.com/IBM/zos_package_manager_operator/releases/tag/v2.0.0) |
 | [1.0.3](https://github.com/IBM/zos_opencpp_operator/releases/tag/v1.0.3) | 
@@ -78,6 +83,7 @@ The Product OCI Artifact name is `java`. To find out more, read the [release not
 
 | Supported Operator Versions | 
 |-|
+| [2.1.0](https://github.com/IBM/zos_package_manager_operator/releases/tag/v2.1.0) |
 | [2.0.1](https://github.com/IBM/zos_package_manager_operator/releases/tag/v2.0.1) |
 | [2.0.0](https://github.com/IBM/zos_package_manager_operator/releases/tag/v2.0.0) |
 | [1.0.3](https://github.com/IBM/zos_java_operator/releases/tag/v1.0.3) | 
@@ -90,10 +96,12 @@ The Product OCI Artifact name is `java`. To find out more, read the [release not
 The Product OCI Artifact name is `golang`. To find out more, read the [release notes](https://www.ibm.com/docs/en/SSV97FN_latest/golang/whats_new.html).
 | Product Version | OCI Artifact Version | License  |
 |-|-|-|
+| 1.21.0 | 1.21.0.0 | [Read here](https://www14.software.ibm.com/cgi-bin/weblap/lap.pl?li_formnum=L-EXWD-SDP99N) |
 | 1.20.4 | 1.20.0.1 | [Read here](https://www14.software.ibm.com/cgi-bin/weblap/lap.pl?li_formnum=L-EXWD-SDP99N) |
 
  Supported Operator Versions |
 |-| 
+| [2.1.0](https://github.com/IBM/zos_package_manager_operator/releases/tag/v2.1.0) |
 | [2.0.1](https://github.com/IBM/zos_package_manager_operator/releases/tag/v2.0.1) |
 | [2.0.0](https://github.com/IBM/zos_package_manager_operator/releases/tag/v2.0.0) |
 | [1.0.3](https://github.com/IBM/zos_go_operator/releases/tag/v1.0.3) |
@@ -106,11 +114,13 @@ The Product OCI Artifact name is `golang`. To find out more, read the [release n
 The Product OCI Artifact name is `node`. To find out more, read the [release notes](https://www.ibm.com/docs/en/SSV97FN_2022.1.1/nodejs/release_notes.html).
 | Product Version | OCI Artifact Version | License  | 
 |-|-|-|
+| 18.18.2 | 18.0.0.5 | [Read here](https://www14.software.ibm.com/cgi-bin/weblap/lap.pl?li_formnum=L-SDPU-Z5XJSB) |
 | 18.16.0 | 18.0.0.3 | [Read here](https://www14.software.ibm.com/cgi-bin/weblap/lap.pl?li_formnum=L-SDPU-Z5XJSB) |
 | 18.14.2 | 18.0.0.2 | [Read here](https://www14.software.ibm.com/cgi-bin/weblap/lap.pl?li_formnum=L-SDPU-Z5XJSB) |
 
 | Supported Operator Versions | 
 |-|
+| [2.1.0](https://github.com/IBM/zos_package_manager_operator/releases/tag/v2.1.0) |
 | [2.0.1](https://github.com/IBM/zos_package_manager_operator/releases/tag/v2.0.1) |
 | [2.0.0](https://github.com/IBM/zos_package_manager_operator/releases/tag/v2.0.0) |
 | [1.0.3](https://github.com/IBM/zos_nodejs_operator/releases/tag/v1.0.3) |
@@ -122,15 +132,13 @@ The Product OCI Artifact name is `node`. To find out more, read the [release not
 The Product OCI Artifact name is `python`. To find out more, read the [release notes](https://www.ibm.com/docs/en/SSV97FN_2022.1.1/python/release_note.html).
 |  Product Version | OCI Artifact Version | License |
 |-|-|-|
+| 3.11.0 | 3.11.0.5 | [Read here](https://www14.software.ibm.com/cgi-bin/weblap/lap.pl?li_formnum=L-CFMQ-2399K3) |
 | 3.11.0 | 3.11.0.4 | [Read here](https://www14.software.ibm.com/cgi-bin/weblap/lap.pl?li_formnum=L-CFMQ-2399K3) |
 | 3.11.0 | 3.11.0.1 | [Read here](https://www14.software.ibm.com/cgi-bin/weblap/lap.pl?li_formnum=L-CFMQ-2399K3) |
-| 3.10.0 | 3.10.0.7 | [Read here](https://www14.software.ibm.com/cgi-bin/weblap/lap.pl?li_formnum=L-JYIP-C7JT5W) |
-| 3.10.0 | 3.10.0.5 | [Read here](https://www14.software.ibm.com/cgi-bin/weblap/lap.pl?li_formnum=L-JYIP-C7JT5W) |
-| 3.10.0 | 3.10.0.2 | [Read here](https://www14.software.ibm.com/cgi-bin/weblap/lap.pl?li_formnum=L-JYIP-C7JT5W) |
-| 3.10.0 | 3.10.0.1 | [Read here](https://www14.software.ibm.com/cgi-bin/weblap/lap.pl?li_formnum=L-JYIP-C7JT5W) |
 
 | Supported Operator Versions | 
 |-| 
+| [2.1.0](https://github.com/IBM/zos_package_manager_operator/releases/tag/v2.1.0) |
 | [2.0.1](https://github.com/IBM/zos_package_manager_operator/releases/tag/v2.0.1) |
 | [2.0.0](https://github.com/IBM/zos_package_manager_operator/releases/tag/v2.0.0) |
 | [1.0.3](https://github.com/IBM/zos_python_operator/releases/tag/v1.0.3) | 
@@ -143,6 +151,7 @@ The Product OCI Artifact name is `python`. To find out more, read the [release n
 The Product OCI Artifact name is `zoau`. To find out more, read the [release notes](https://www.ibm.com/docs/en/SSV97FN_2022.1.1/zoau/zstack_release_notes_zoau.html).
 |  Product Version | OCI Artifact Version | License |
 |-|-|-|
+| 1.2.5 | 1.2.5.0 | [Read here](https://www14.software.ibm.com/cgi-bin/weblap/lap.pl?li_formnum=L-CWDG-C2AUJQ) |
 | 1.2.3 | 1.2.3.2 | [Read here](https://www14.software.ibm.com/cgi-bin/weblap/lap.pl?li_formnum=L-CWDG-C2AUJQ) |
 | 1.2.2 | 1.2.2.1 | [Read here](https://www14.software.ibm.com/cgi-bin/weblap/lap.pl?li_formnum=L-CWDG-C2AUJQ) |
 | 1.2.1 | 1.2.1.0 | [Read here](https://www14.software.ibm.com/cgi-bin/weblap/lap.pl?li_formnum=L-CWDG-C2AUJQ) |
@@ -151,6 +160,7 @@ The Product OCI Artifact name is `zoau`. To find out more, read the [release not
 
 | Supported Operator Versions | 
 |-| 
+| [2.1.0](https://github.com/IBM/zos_package_manager_operator/releases/tag/v2.1.0) |
 | [2.0.1](https://github.com/IBM/zos_package_manager_operator/releases/tag/v2.0.1) |
 | [2.0.0](https://github.com/IBM/zos_package_manager_operator/releases/tag/v2.0.0) |
 | [1.0.3](https://github.com/IBM/zos_zoau_operator/releases/tag/v1.0.3) |
