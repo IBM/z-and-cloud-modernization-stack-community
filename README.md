@@ -42,6 +42,7 @@ To find out more, read the [release notes](https://www.ibm.com/docs/en/cloud-pak
 ___
 ## z/OS Package Manager Operator collection <a name="zpm"></a>
 To find out more, read the [release notes](https://www.ibm.com/docs/en/SSV97FN_2022.1.1/zpm/release-notes.html).
+**Note:** It is recommended to use the latest versions.
 |  Operator Version | Supported CLI Version | License |
 |-|-|-| 
 | [2.1.0](https://github.com/IBM/zos_package_manager_operator/releases/tag/v2.1.0) | 2.0.0 | [Read here](https://ibm.biz/BdSjdK) |
