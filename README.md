@@ -150,7 +150,7 @@ The Product OCI Artifact name is `python`. To find out more, read the [release n
 
 
 ## Z Open Automation Utilities <a name="zoau"></a>
-The Product OCI Artifact name is `zoau`. To find out more, read the [release notes](https://www.ibm.com/docs/en/SSV97FN_2022.1.1/zoau/zstack_release_notes_zoau.html).
+The Product OCI Artifact name is `zoau`. To find out more, read the [release notes](https://www.ibm.com/docs/en/cloud-paks/z-modernization-stack/latest?topic=utilities-release-notes).
 |  Product Version | OCI Artifact Version | License |
 |-|-|-|
 | 1.2.5 | 1.2.5.0 | [Read here](https://www14.software.ibm.com/cgi-bin/weblap/lap.pl?li_formnum=L-CWDG-C2AUJQ) |
