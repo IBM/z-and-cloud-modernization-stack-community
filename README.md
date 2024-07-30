@@ -95,7 +95,7 @@ The Product OCI Artifact name is `java`. To find out more, read the [release not
 
 
 ## Open Enterprise SDK for Go <a name="go"></a>
-The Product OCI Artifact name is `golang`. To find out more, read the [release notes](https://www.ibm.com/docs/en/SSV97FN_latest/golang/whats_new.html).
+The Product OCI Artifact name is `golang`. To learn more, read the [release notes](https://www.ibm.com/docs/en/SSV97FN_latest/golang/whats_new.html).
 | Product Version | OCI Artifact Version | License  |
 |-|-|-|
 | 1.21.0 | 1.21.0.0 | [Read here](https://www14.software.ibm.com/cgi-bin/weblap/lap.pl?li_formnum=L-EXWD-SDP99N) |
